@@ -38,4 +38,5 @@ dotnet ef database update
 
 dotnet run
 
-Приложение будет слушать на http://localhost:5000 (или https://localhost:5001).
+Приложение будет слушать на http://localhost:xxxx
+http://localhost:xxxx/swagger - откроет сваггер с апи
