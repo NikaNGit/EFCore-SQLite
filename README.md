@@ -39,4 +39,5 @@ dotnet ef database update
 dotnet run
 
 Приложение будет слушать на http://localhost:xxxx
+
 http://localhost:xxxx/swagger - откроет сваггер с апи
